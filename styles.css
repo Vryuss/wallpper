@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.bgbox{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+.bg{
+    flex-grow: 1;
+    background-color: rgb(94, 133, 133);
+}
+canvas{
+    width: 37vw;
+}
